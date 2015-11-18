@@ -1,0 +1,3 @@
+include ':openCVLibrary300'
+include ':tesstwo'
+include ':vCardReader'
